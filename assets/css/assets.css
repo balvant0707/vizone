@@ -1,0 +1,62 @@
+/*=========================
+	All css
+==========================*/
+
+@import url("../vendors/animate/animate.css");
+@import url("../vendors/bootstrap/css/bootstrap.min.css");
+@import url("../vendors/fontawesome/css/font-awesome.min.css");
+@import url("../vendors/line-awesome/css/line-awesome.css");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/*=========================
+	All css
+==========================*/
+/*    
+    font-family: 'Montserrat', sans-serif;
+*/
+@font-face {
+    font-family: Montserrat;
+    src: url('../fonts/montserrat/montserrat-v15-latin-200.woff2') format("woff2");
+    font-weight: 200;
+    font-display: block
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url('../fonts/montserrat/montserrat-v15-latin-300.woff2') format("woff");
+    font-weight: 300;
+    font-style: normal;
+    font-display: block
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url('../fonts/montserrat/montserrat-v15-latin-regular.woff2') format("woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: block
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url('../fonts/montserrat/montserrat-v15-latin-500.woff2') format("woff");
+    font-weight: 500;
+    font-style: normal;
+    font-display: block
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url('../fonts/montserrat/montserrat-v15-latin-600.woff2') format("woff");
+    font-weight: 600;
+    font-style: normal;
+    font-display: block
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url('../fonts/montserrat/montserrat-v18-latin-700.woff2') format("woff");
+    font-weight: 700;
+    font-style: normal;
+    font-display: block
+}
